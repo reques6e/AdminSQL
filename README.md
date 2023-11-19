@@ -6,7 +6,9 @@
 
 # Как настроить бота?
 Заходим в cogs/AdminSQL.py и находим такую строчку:
+
 <img src="tmp/Code_bhYXVdAav1.png">
+
 Замените "data/database/economy.db" на путь к своему db.
 
 # Какую версию Python и библиотеки стоит использовать?
