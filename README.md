@@ -1,12 +1,12 @@
 # AdminSQL
 Управление базой данных с помощью дискорд бота
 
-<img href="tmp/Discord_PHiuE3tugA.png">
-<img href="tmp/Discord_pZv50TQXCJ.png">
+<img src="tmp/Discord_PHiuE3tugA.png">
+<img src="tmp/Discord_pZv50TQXCJ.png">
 
 # Как настроить бота?
 Заходим в cogs/AdminSQL.py и находим такую строчку:
-<img href="tmp/Code_bhYXVdAav1.png">
+<img src="tmp/Code_bhYXVdAav1.png">
 Замените "data/database/economy.db" на путь к своему db.
 
 # Какую версию Python и библиотеки стоит использовать?
